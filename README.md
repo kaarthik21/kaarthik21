@@ -11,4 +11,7 @@ Here are some ideas to get you started:
 - 📫 Reach me out <a href="https://kaarthik21.github.io/html/index.html">here</a>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kaarthik21&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaarthik21&langs_count=5&theme=tokyonight)]()
+
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaarthik21&langs_count=5&theme=tokyonight)]()
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaarthik21&layout=compact)](https://github.com/kaarthik21/github-readme-stats)
