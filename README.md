@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently an undergrad at NIT Trichy!
-- 🌱 I’m interested in CTF's
+- 🌱 I’m interested in Web development  and CTF's
 - 👯 I'm looking out for collaborating on any Hackathons, CTF's
 - 📫 Reach me out <a href="https://kaarthik21.github.io/html/index.html">here</a>
 
