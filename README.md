@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <hr></hr>
 <h2 align="left">Tools</h2>    
 
-    ![Linux](https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/vscode%20-%23121011.svg?&style=for-the-badge&logo=vscode&logoColor=white)
-    ![Git](https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode%20-%23121011.svg?&style=for-the-badge&logo=vscode&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
     
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kaarthik21&count_private=true&theme=tokyonight&showicons=true)]()
